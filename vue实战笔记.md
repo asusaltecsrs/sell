@@ -34,3 +34,13 @@ sudo cnpm install
 
 npm run dev
 启动成功
+
+根据美工制作的SVG图片制作字体图标
+https://icomoon.io
+1.点击iconMoon App开始制作
+https://icomoon.io/app/#/select
+2.import icons
+3.鼠标逐个选中
+generate Font
+4.preference进行设定字体名称
+5.download
